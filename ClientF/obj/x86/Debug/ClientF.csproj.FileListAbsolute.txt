@@ -1,0 +1,13 @@
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\ClientF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\ClientF\obj\x86\Debug\ClientF.Form1.resources
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\ClientF\obj\x86\Debug\ClientF.Properties.Resources.resources
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\ClientF\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\ClientF\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\ClientF\bin\Debug\ClientF.exe
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\ClientF\bin\Debug\ClientF.pdb
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\ClientF\obj\x86\Debug\ClientF.exe
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\ClientF\obj\x86\Debug\ClientF.pdb
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\ClientF\bin\Debug\ClientF.exe.config
+C:\Users\WIN7\Desktop\LogTrace\ClientF\bin\Debug\ClientF.exe.config
+C:\Users\WIN7\Desktop\LogTrace\ClientF\obj\x86\Debug\ClientF.exe
+C:\Users\WIN7\Desktop\LogTrace\ClientF\obj\x86\Debug\ClientF.pdb

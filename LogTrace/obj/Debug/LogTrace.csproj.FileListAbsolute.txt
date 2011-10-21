@@ -1,0 +1,12 @@
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\LogTrace\bin\Debug\LogTrace.dll.config
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\LogTrace\bin\Debug\LogTrace.dll
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\LogTrace\bin\Debug\LogTrace.pdb
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\LogTrace\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\LogTrace\obj\Debug\LogTrace.dll
+C:\Users\WIN7\Desktop\Baitap DVWEB\LogTrace\LogTrace\obj\Debug\LogTrace.pdb
+C:\Users\WIN7\Desktop\LogTrace\LogTrace\bin\Debug\LogTrace.dll.config
+C:\Users\WIN7\Desktop\LogTrace\LogTrace\bin\Debug\LogTrace.dll
+C:\Users\WIN7\Desktop\LogTrace\LogTrace\bin\Debug\LogTrace.pdb
+C:\Users\WIN7\Desktop\LogTrace\LogTrace\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\LogTrace\LogTrace\obj\Debug\LogTrace.dll
+C:\Users\WIN7\Desktop\LogTrace\LogTrace\obj\Debug\LogTrace.pdb
